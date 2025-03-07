@@ -32,3 +32,6 @@ This is a simple iOS app built with UIKit that lets users generate random superh
 
 Enjoy using the Superhero App! 
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-07 at 08 23 20](https://github.com/user-attachments/assets/f78f84a0-972c-4b42-8591-f5d58b3026d5)
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-07 at 08 23 13](https://github.com/user-attachments/assets/de0af656-32f0-4882-b86f-9c77ac8aec55)
+![Simulator Screenshot - iPhone 16 Pro - 2025-03-07 at 08 23 07](https://github.com/user-attachments/assets/bd808ed3-8279-41cc-b2bb-465e8dea14d6)
